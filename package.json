@@ -1,0 +1,28 @@
+{
+  "name": "wedding-present",
+  "version": "1.0.0",
+  "description": "红包雨canvas版",
+  "main": "index.js",
+  "scripts": {
+    "start":"./node_modules/.bin/anywhere",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/superNever/weddingPresent-lastest.git"
+  },
+  "keywords": [
+    "wedding-Present",
+    "红包雨",
+    "canvas"
+  ],
+  "author": "supernever",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superNever/weddingPresent-lastest/issues"
+  },
+  "homepage": "https://github.com/superNever/weddingPresent-lastest#readme",
+  "devDependencies": {
+    "anywhere": "^1.4.0"
+  }
+}
